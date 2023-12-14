@@ -1,5 +1,5 @@
 const API_BASE_URL =
-  process.env.REACT_APP_API_URL || "https://welovemoviesbackend-o6ib.onrender.com";
+  process.env.REACT_APP_API_URL || "localhost:10000";
 
 /**
  * Defines the default headers for these functions to work with `json-server`
